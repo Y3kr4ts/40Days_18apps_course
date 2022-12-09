@@ -1,0 +1,13 @@
+Heads
+Tails
+Heads
+Tails
+Tails
+heads
+Tails
+head
+tail
+head
+head
+head
+tail
